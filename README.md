@@ -20,6 +20,7 @@ Este projeto consiste em uma interface de usuário que simula a aparência e alg
 
 ## Estrutura do Projeto
 
+```bash
 spotify-clone/
 ├── src/
 │   ├── assets/
@@ -45,6 +46,7 @@ spotify-clone/
 │   └── index.html
 ├── package.json
 └── README.md
+```
 
 ## Como Executar o Projeto
 
