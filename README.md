@@ -50,26 +50,19 @@ spotify-clone/
 
 ## Como Executar o Projeto
 
-1.  **Clone o repositório:**
-
-    ```bash
-    git clone [https://docs.github.com/articles/referencing-and-citing-content](https://docs.github.com/articles/referencing-and-citing-content)
-    cd [nome do seu repositório]
-    ```
-
-2.  **Instale as dependências:**
+1.  **Instale as dependências:**
 
     ```bash
     npm install
     ```
 
-3.  **Execute o projeto:**
+2.  **Execute o projeto:**
 
     ```bash
     npm start
     ```
 
-4.  O projeto será aberto no seu navegador padrão em `http://localhost:3000`.
+3.  O projeto será aberto no seu navegador padrão em `http://localhost:3000`.
 
 ## Aprendizados
 
